@@ -3,6 +3,9 @@
 <!--
 **dusql4/dusql4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Kimyeonbi
+My major is Financial mathematics and software
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
