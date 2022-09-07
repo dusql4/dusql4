@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kimyeonbi
+My name is Kimyeonbi / 
 My major is Financial mathematics and software
 
 <!--
